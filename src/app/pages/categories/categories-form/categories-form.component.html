@@ -15,7 +15,7 @@
 <div class="row mb-3">
   <div class="col ms-3 md-6">
     <h1 class="h2 border-left pl-2">
-      Nova Categoria
+      {{ pageTitle }}
     </h1>
   </div>
   <div class="col md-6 ">
@@ -26,7 +26,7 @@
 <div class="me-3 ms-3 ">
 
 
-  <form>
+  <form [formGroup]="categoryForm">
 
     <div class="card">
       <div class="card-header">
