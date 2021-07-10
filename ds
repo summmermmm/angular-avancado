@@ -1,0 +1,47 @@
+[33mcommit f5a419c67bf00f76b609ad2666cfbe2040972fb4[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Henning Summer <henningsummer@mudameumundo.com.br>
+Date:   Sat Jul 10 01:28:58 2021 -0300
+
+    adding crud service categories
+
+[33mcommit 2c378c0f076b16adc765b0902a9000c1fb7b5ed4[m
+Author: Henning Summer <henningsummer@mudameumundo.com.br>
+Date:   Sat Jul 10 00:42:10 2021 -0300
+
+    adding categories servicey
+
+[33mcommit 21ae79c882e23475a307726d5035cfea9ebbe381[m
+Author: Henning Summer <henningsummer@mudameumundo.com.br>
+Date:   Sat Jul 10 00:04:34 2021 -0300
+
+    addind db memory
+
+[33mcommit 4dc370c0ff3ce3a0bfaa9866831963b2be7cb8a4[m
+Author: Henning Summer <henningsummer@mudameumundo.com.br>
+Date:   Fri Jul 9 23:55:07 2021 -0300
+
+    adding template router
+
+[33mcommit e19a3facfef9948d23839f7fc4f06d310127747d[m
+Author: Henning Summer <henningsummer@mudameumundo.com.br>
+Date:   Fri Jul 9 22:35:40 2021 -0300
+
+    add categories
+
+[33mcommit 40d1843892cb62ec360571dfd28aa095cc5182b1[m
+Author: Henning Summer <henningsummer@mudameumundo.com.br>
+Date:   Fri Jul 9 21:43:14 2021 -0300
+
+    add categories
+
+[33mcommit b7cc435380affcfcdb47310d1b2ab8af796ec117[m
+Author: Henning <henningsummer@mudameumundo.com.br>
+Date:   Fri Jul 9 20:47:07 2021 -0300
+
+    adding base configuratin
+
+[33mcommit c8c5f0118224f6ab5596a8edf511727c30b2e50c[m
+Author: Henning <henningsummer@mudameumundo.com.br>
+Date:   Fri Jul 9 18:21:45 2021 -0300
+
+    initial commit
