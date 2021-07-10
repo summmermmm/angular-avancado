@@ -6,7 +6,7 @@ import { CategoriesFormComponent } from './categories-form/categories-form.compo
 const routes: Routes = [
   {path: '', component: CategoriesListComponent}, //pagina de listagem
   {path: 'new', component: CategoriesFormComponent}, //rota para criar um novo no formulário
-  {path: ':id/edit', component: CategoriesFormComponent}, //rota para editar um novo no formulário
+  {path: ':id/edit', component: CategoriesFormComponent} //rota para editar um novo no formulário
 ];
 
 @NgModule({
