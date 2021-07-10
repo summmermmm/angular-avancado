@@ -32,14 +32,14 @@
       </tr>
     </thead>
     <tbody>
-      <tr scope="row" *ngFor="let a of [1,2,3,4]">
+      <tr scope="row" *ngFor="let category of categories">
         <td>
-          <strong>lazer</strong><br>
-          <small>Cinema, lazer</small>
+          <strong>{{ category.name }}</strong><br>
+          <small>{{ category.description }}</small>
         </td>
         <td>
-          <a [routerLink]="[a, 'edit']" class="btn btn-outline-info btn-sm me-2">Editar</a>
-          <a onClick="alert('excluir')" class="btn btn-outline-info btn-sm">Excluir</a>
+          <a [routerLink]="[category.id,'edit']" class="btn btn-outline-info btn-sm me-2">Editar</a>
+          <a (click)="deleteCategories(category)" class="btn btn-outline-info btn-sm">Excluir</a>
         </td>
       </tr>
     </tbody>
